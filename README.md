@@ -1,3 +1,4 @@
+Invariance-055 module
 # Invariance 0.55: The Geometry of Neural Flux
 
 > "The present is theirs; the future, for which I have really worked, is mine." — Nikola Tesla
