@@ -1,0 +1,2 @@
+Step,Timestamp,Formula,Target,Initial_Convergence
+02_DYNAMIC_FLUX_ANALYSIS,2026-03-05T11:24:23.175905,dx/dt_extraction,Invariant_Search,0.3139
