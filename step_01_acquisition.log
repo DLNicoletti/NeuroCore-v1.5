@@ -1,0 +1,2 @@
+Step,Timestamp,Action,Entropy_Level,Status
+01_DATA_ISOLATION,2026-03-05T09:54:23.175905,Isolating Gold Standard CSVs from Noise,High,Raw_Signal_Captured
