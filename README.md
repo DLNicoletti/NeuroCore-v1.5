@@ -47,9 +47,11 @@ Divergence from this value ($\Delta > \sigma$) triggers the identification of **
 
 ---
 
+---
+
 ### **$\mathcal{L}$-Operator Convergence Analysis**
 
-![Convergence Analysis](convergence_analysis.png)
+![Convergence Analysis](Schermata%202026-03-05%20alle%2022.46.15.png)
 
 **Figure 1**: *Temporal evolution of the Normalized Flux ($\dot{x}$) under the NeuroCore™ invariant operator. The system demonstrates high-precision convergence to the 0.55 Pivot, crossing the **96.1% Convergence Threshold** within the $t > 8$ propagation window.*
 
@@ -57,6 +59,9 @@ Divergence from this value ($\Delta > \sigma$) triggers the identification of **
 * **Phase 1 ($t < 4$):** Presence of high-entropy stochastic fluctuations representing raw dynamical states.
 * **Phase 2 ($4 < t < 8$):** Non-linear stabilization and attractor-driven damping phase.
 * **Phase 3 ($t > 8$):** Asymptotic stability at the **0.55 Invariant Pivot**, effectively isolating the signal from background noise.
+
+---
+*Confidential Technical Documentation - NeuroCore™ Proprietary Logic*
 
 ---
 *Confidential Technical Documentation - NeuroCore™ Proprietary Logic*
