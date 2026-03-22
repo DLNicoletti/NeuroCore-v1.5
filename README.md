@@ -2,6 +2,14 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14920612.svg)](https://doi.org/10.5281/zenodo.14920612)
 ![License](https://img.shields.io/badge/License-Proprietary-red.svg)
 
+## Citation
+
+If you use this work in research or production systems, please cite:
+
+Nicoletti D. L. — NeuroCore™ 
+
+DOI: [https://zenodo.org/records/XXXXX](https://doi.org/10.5281/zenodo.19033105)
+
 **Invariant-Based Stability Metric for Cross-Dataset Neurophysiological Analysis**
 
 NeuroCore Framework (SIAE 2026/00008) is an advanced neural processing architecture designed for real-time identification of homeostatic invariants in EEG/fNIRS signals. This release (v1.5.0) formalizes the **L-Invariant 21** operator, validated on a multi-centric pipeline of **793 clinical records** aggregated from international cohorts.
