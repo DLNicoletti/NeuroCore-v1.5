@@ -1,7 +1,35 @@
 cff-version: 1.2.0
 title: "Invariance-055 Framework"
-authors:
-  - family-names: "Nicoletti"
-    given-names: "Davide Luca"
-doi: https://doi.org/10.5281/zenodo.19033105
 message: "If you use this work, please cite it as below."
+type: software
+
+authors:
+
+* family-names: "Nicoletti"
+  given-names: "Davide Luca"
+
+doi: 10.5281/zenodo.19033105
+url: "https://doi.org/10.5281/zenodo.19033105"
+
+repository-code: "https://github.com/DLNicoletti/Invariance-055"
+
+abstract: >
+Computational framework for invariant-based analysis of neurophysiological dynamics.
+The system implements an asymptotic L-Operator to extract the 0.55 homeostatic invariant
+and identify stability regimes in high-entropy biological and synthetic datasets.
+Designed for pipeline-agnostic reproducibility and cross-dataset validation.
+
+keywords:
+
+* neuroscience
+* dynamical systems
+* invariance
+* EEG
+* regime detection
+* signal analysis
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: 2026-03-22
