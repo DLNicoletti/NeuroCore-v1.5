@@ -1,4 +1,4 @@
-# NeuroCore Framework v1.5.0
+# NeuroCore™ v1.5 — Neurodynamical Regime Framework
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14920612.svg)](https://doi.org/10.5281/zenodo.14920612)
 ![License](https://img.shields.io/badge/License-Proprietary-red.svg)
 
