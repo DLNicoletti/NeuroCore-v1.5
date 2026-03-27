@@ -22,7 +22,7 @@ NeuroCore Framework (SIAE 2026/00008) is an advanced neural processing architect
 | **Statistical Power** | `p < 1.12e-84` | Extreme robustness in Symmetry Breaking |
 | **Validated Records** | `793 files` | Global cohort validation (India, EU, USA, Tanzania) |
 
-## 🧠 Mathematical Foundation
+## Mathematical Foundation
 The framework utilizes the Asymptotic L-Operator ($L$) to isolate the homeostatic anchor $\phi$ (target: 0.55). Stability is defined by the convergence:
 
 $$\lim_{t \to \infty} L_{inv}(x_t) = 0.55 \pm \delta$$
@@ -31,8 +31,6 @@ Where $\delta < 0.05$ represents the critical drift threshold verified for clini
 
 $$\frac{dL}{dt} > \sigma_{threshold}$$
 
-## 📊 Performance Evidence
-The model demonstrates an optimal trade-off between precision and early warning capabilities, as documented in the internal validation reports provided in the Zenodo repository.
 
 ---
 **Legal Notice:** Proprietary logic. All rights reserved under SIAE registration n. 2026/00008.
