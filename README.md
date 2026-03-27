@@ -37,5 +37,4 @@ The model demonstrates an optimal trade-off between precision and early warning 
 ---
 **Legal Notice:** Proprietary logic. All rights reserved under SIAE registration n. 2026/00008.
 
-## Authenticity & Intellectual Property. 
-Statement: "This ecosystem is protected by a deterministic digital signature. Current build SHA-256: [6d59bd8d8f4c89ffb4d140f5b89c664798701b4cac8ae373aaaa71540a459116]."
+
