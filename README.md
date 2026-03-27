@@ -33,6 +33,5 @@ $$\frac{dL}{dt} > \sigma_{threshold}$$
 
 
 ---
-**Legal Notice:** Proprietary logic. All rights reserved under SIAE registration n. 2026/00008.
-
+**Legal Notice:** Proprietary logic. All rights reserved.
 
