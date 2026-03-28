@@ -1,4 +1,4 @@
-# NeuroCore v1.5 - Neurodynamical Regime Framework
+# NeuroCore v1.5.1 - Neurodynamical Regime Framework
 
 
 ![License](https://img.shields.io/badge/License-Proprietary-red.svg)
