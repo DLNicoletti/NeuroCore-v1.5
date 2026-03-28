@@ -23,13 +23,36 @@ NeuroCore Framework (SIAE 2026/00008) is an advanced neural processing architect
 | **Validated Records** | `793 files` | Global cohort validation (India, EU, USA, Tanzania) |
 
 ## Mathematical Foundation
-The framework utilizes the Asymptotic L-Operator ($L$) to isolate the homeostatic anchor $\phi$ (target: 0.55). Stability is defined by the convergence:
 
-$$\lim_{t \to \infty} L_{inv}(x_t) = 0.55 \pm \delta$$
+The framework models neurophysiological signals as stochastic dynamical systems and introduces an asymptotic operator $\mathcal{L}$ acting on the signal space to extract invariant structures.
 
-Where $\delta < 0.05$ represents the critical drift threshold verified for clinical stability. Symmetry breaking ($\psi$), signaling ictal transitions or cognitive shifts, is detected via:
+Given a time-dependent signal $x(t)$, the operator $\mathcal{L}$ defines a coarse-grained observable:
 
-$$\frac{dL}{dt} > \sigma_{threshold}$$
+$$
+\phi(t) = \mathcal{L}[x(t)]
+$$
+
+which represents an emergent homeostatic order parameter of the system.
+
+System stability is defined through asymptotic convergence toward a fixed-point value:
+
+$$
+\lim_{t \to \infty} \phi(t) = \phi^* \pm \delta
+$$
+
+where:
+* **$\phi^* \approx 0.55$** is an empirically observed invariant across datasets
+* **$\delta < 0.05$** defines the admissible fluctuation range for stable regimes
+
+Deviations from this equilibrium correspond to symmetry-breaking events, associated with functional transitions in the underlying neurodynamical system.
+
+These transitions are detected through the temporal variation of the observable:
+
+$$
+\frac{d\phi}{dt} > \sigma_{\text{threshold}}
+$$
+
+indicating a departure from the stable attractor and the onset of a new dynamical regime.
 
 
 ---
