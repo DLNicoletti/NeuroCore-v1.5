@@ -9,7 +9,7 @@ DOI: [https://zenodo.org/records/XXXXX](https://doi.org/10.5281/zenodo.19033105)
 
 **Invariant-Based Stability Metric for Cross-Dataset Neurophysiological Analysis**
 
-NeuroCore Framework (SIAE 2026/00008) is an advanced neural processing architecture designed for real-time identification of homeostatic invariants in EEG/fNIRS signals.
+NeuroCore Framework is an advanced neural processing architecture designed for real-time identification of homeostatic invariants in EEG/fNIRS signals.
 
 ## Clinical & Robotic Key Performance Indicators (KPI)
 
@@ -54,6 +54,7 @@ $$
 
 indicating a departure from the stable attractor and the onset of a new dynamical regime.
 
+This formulation defines an effective low-dimensional representation of high-entropy neurophysiological signals, enabling the identification of universal stability regimes across heterogeneous systems.
 
 ---
 **Legal Notice:** Proprietary logic. All rights reserved.
