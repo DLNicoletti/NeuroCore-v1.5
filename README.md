@@ -4,8 +4,6 @@
 ![License](https://img.shields.io/badge/License-Proprietary-red.svg)
 
 
-DOI: [https://zenodo.org/records/XXXXX](https://doi.org/10.5281/zenodo.19033105)
-
 ---
 
 **Invariant-Based Stability Metric for Cross-Dataset Neurophysiological Analysis**
